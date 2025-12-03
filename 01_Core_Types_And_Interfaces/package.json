@@ -1,0 +1,17 @@
+{
+    "name": "01_core_types_and_interfaces",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc -p tsconfig.json",
+        "dev": "tsc -w -p tsconfig.json"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "devDependencies": {
+        "typescript": "^5.9.3"
+    }
+}
