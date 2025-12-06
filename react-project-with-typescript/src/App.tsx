@@ -1,12 +1,10 @@
 import './App.css'
-import { GeetMe } from './components/2_DefaultProps'
-
+import { Uncontrolled } from './components/9_Uncontrolled'
 function App() {
 
   return (
     <>
-      <h1>working code!</h1>
-      <GeetMe name='arbaz ansari' shout={true} />
+      <Uncontrolled />
     </>
   )
 }
